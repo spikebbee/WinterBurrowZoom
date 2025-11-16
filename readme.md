@@ -22,3 +22,5 @@ Allows smooth zooming in and out with keyboard keys.
 ## Uninstall
 Delete **WinterBurrowZoomMod.dll** from the BepInEx/plugins folder.
 
+
+![Preview](./Picture.png)
