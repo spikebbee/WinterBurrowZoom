@@ -6,7 +6,7 @@ Allows smooth zooming in and out with keyboard keys.
 ## Installation
 1. Install **BepInEx 5 (x64)** for Winter Burrow.  
 2. Copy the file **WinterBurrowZoomMod.dll** into the folder: BepInEx/plugins inside your game directory.  
-3. Start the game. Look for `[ZoomMod]` log lines in LogOutput.log to confirm it is active.
+
 
 ## Controls
 - **+** : Zoom in  
@@ -21,3 +21,4 @@ Allows smooth zooming in and out with keyboard keys.
 
 ## Uninstall
 Delete **WinterBurrowZoomMod.dll** from the BepInEx/plugins folder.
+
